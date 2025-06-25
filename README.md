@@ -15,5 +15,3 @@ Inserting sample data into these tables.
 Updating existing data.
 
 Deleting data, with an emphasis on handling foreign key constraints (e.g., deleting a book before deleting its author).
-
-This setup provides a practical example for learning basic SQL operations and relational database design.
